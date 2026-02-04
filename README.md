@@ -1,16 +1,13 @@
-## Hi there 👋
+# 💻 HeartSensing | Consultant Stratégie & IA
 
-<!--
-**HeartSensing/HeartSensing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **"Itérer, Apprendre, Transformer."**
+> Spécialisé dans le développement d'écosystèmes numériques agiles et l'intégration de solutions d'IA.
 
-Here are some ideas to get you started:
+### 🛠 Expertise & Stack
+* **Stratégie :** Innovation digitale, Architectures de données, Productivité.
+* **Outils :** Android Studio, Acode, Spck NodeJS, GitHub.
+* **IA :** Copilot, Gemini, Microsoft Designer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+🔗 **Portfolio :** [heartsensing.wixsite.com](https://heartsensing.wixsite.com/)
+
