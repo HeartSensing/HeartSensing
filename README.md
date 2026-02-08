@@ -1,5 +1,8 @@
 # 💻 HeartSensing | Consultant Stratégie & IA
 
+## 🧠 Ma Philosophie HeartSensing
+Pour moi, **HeartSensing** représente le cœur qui lit et analyse la technologie de manière illimitée. C'est une fusion entre l'humain et l'innovation, un flux constant qui ne connaît ni cesse, ni arrêt.
+
 > **"Itérer, Apprendre, Transformer."**
 > Spécialisé dans le développement d'écosystèmes numériques agiles et l'intégration de solutions d'IA.
 
